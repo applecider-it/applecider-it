@@ -52,10 +52,30 @@
 
 - Vite,Vue,Tailwind,TypeScriptは、どちらでも使えるので潰しがききます。
 
-### 方程式
+### 楽ちんで有益な方程式
 
 ```
-WEBアプリケーション = ( Rails(ERB) or Laravel(Blade) ) + ( Vite,Vue,Tailwind,TypeScript )
+WEBアプリケーション = MPA( Rails or Laravel ) + ( Vite,Vue,Tailwind,TypeScript )
 
 アプリ(モバイル,PC) = WEBアプリケーション + PWA
 ```
+
+### 技術バブルの方程式
+
+```
+難しこと = 価値
+
+新しいこと = 価値
+```
+
+実際は、
+
+```
+有益なこと = 価値
+
+有害なこと = 無価値
+```
+
+そのため、技術バブルになると、あれれー、なんかおかしいぞーとなります。
+
+実際には、難しくて有害な技術もあれば、簡単で有益な技術もあります。
